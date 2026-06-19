@@ -1,6 +1,6 @@
 import mongoose, { model, Schema } from "mongoose";
 
-const connectionString = "mongodb://mongo:27017/testDB";
+const connectionString = "mongodb://DB_Container:27017/testDB";
 
 async function main() {
   await mongoose
