@@ -14,7 +14,9 @@
   "type": "module",
   "dependencies": {
     "@types/express": "^5.0.6",
+    "@types/mongoose": "^5.11.96",
     "express": "^5.2.1",
+    "mongoose": "^9.7.1",
     "typescript": "^6.0.3"
   }
 }
